@@ -1,6 +1,6 @@
 # Ecommerce-Analysis
 
-![Project Logo](https://github.com/dataliew/Ecommerce-Analysis/blob/main/Project_Logo.jpg?raw=true)
+![Dashboard]([https://github.com/dataliew/Ecommerce-Analysis/blob/main/Project_Logo.jpg?raw=true](https://github.com/dataliew/Ecommerce-Analysis/blob/main/Ecommerce_Dashboard.png?raw=true))
 
 ## **Overview**
 
