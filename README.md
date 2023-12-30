@@ -2,7 +2,7 @@
 
 
 
-**Overview**
+## **Overview**
 
 The goal of this project is to analyze Electronic Ecommerce sales data (09/2020-02/2021) to extract insights and find opportunities to increase net revenue.
 - Tools: MySQL, DBeaver, Tableau Desktop
@@ -10,16 +10,17 @@ The goal of this project is to analyze Electronic Ecommerce sales data (09/2020-
 Business Problem: Increase Net Revenue of Ecommerce business
 
 Analysis
-(1) Setting and Tracking KPIs (Purchase Conversion Rate, Average Order Value, Total Purchases)
-(2) Conduct Event Type Funnel Analysis
-(3) Conduct Repeat Purchase Cohort Analysis 
+- Setting and Tracking KPIs (Purchase Conversion Rate, Average Order Value, Total Purchases)
+- Conduct Event Type Funnel Analysis
+- Conduct Repeat Purchase Cohort Analysis 
 
-**Potential Stakeholders**
+## **Potential Stakeholders**
 
 - Data Analyst, Product Manager aiming for growth in revenue. Especially interested in identifying patterns in sales data
 - Senior business stakeholders who makes core business decisions 
 
-**Dataset Description**
+## **Dataset Description**
+
 Source: https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store
 
 Shape: 885,129 x 9
@@ -34,9 +35,11 @@ price: Product Price
 user_id: Permenant User ID
 user_session: Permenant Session ID
 
-**How to use (Adding a video would be perfect)**
+## **How to use (Video Explanation)**
 
-**Conclusion**
+
+
+## **Conclusion**
 - Purhcase Conversion Rate gradually increased by 1% 09/2020 through 02/2021
 - Average Order Value also gradually increased by $4.82 09/2020 through 02/2021
 - Increase in the number of purchases is slowing down
@@ -52,6 +55,6 @@ Limitation
 - No information about ecosystem of the ecommerce business
 - No information about the history of business (e.g. error, strategy)
 
-**Future Work**
+## **Future Work**
 - Identify a dataset that contains more complex user logs and extract more insights
 - Add more numerical details on Tableau Dashboard
