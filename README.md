@@ -1,6 +1,6 @@
 # Ecommerce-Analysis
 
-
+![Project Logo](https://github.com/dataliew/Ecommerce-Analysis/blob/main/Project_Logo.jpg?raw=true)
 
 ## **Overview**
 
@@ -25,15 +25,15 @@ Source: https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-el
 
 Shape: 885,129 x 9
 
-event_time: When the event occurred
-event_type: One of [view, cart, purchase]
-product_id: Product ID
-category_id: Product Category ID
-categroy_code: Category name (e.g. computer.desktop)
-brand: Product Brand
-price: Product Price
-user_id: Permenant User ID
-user_session: Permenant Session ID
+event_time: When the event occurred  
+event_type: One of [view, cart, purchase]  
+product_id: Product ID  
+category_id: Product Category ID  
+categroy_code: Category name (e.g. computer.desktop)  
+brand: Product Brand  
+price: Product Price  
+user_id: Permenant User ID  
+user_session: Permenant Session ID  
 
 ## **How to use (Video Explanation)**
 
