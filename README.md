@@ -3,7 +3,7 @@
 ![Dashboard](https://github.com/dataliew/Ecommerce-Analysis/blob/main/Ecommerce_Dashboard.png?raw=true)
 <div align="center">
 
-###  Tableau Public [Link]([https://public.tableau.com/profile/your-tableau-public-username#!/vizhome/YourDashboardName/YourDashboardTitle](https://public.tableau.com/app/profile/seongjae.liew/viz/ElectronicEcommerceDashboard/Dashboard2?publish=yes))
+### Tableau Public [Link](https://public.tableau.com/app/profile/seongjae.liew/viz/ElectronicEcommerceDashboard/Dashboard2)
 
 </div>
 
